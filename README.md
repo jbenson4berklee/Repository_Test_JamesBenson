@@ -12,3 +12,8 @@ All of this is listed as required by the notion site for homework, so if confuse
 
 <h2>Favorite Game OST</h2>
 My favorite video game ost at the moment is [Gravity Rush 2](https://www.youtube.com/watch?v=Jlb7N_VxITc&list=PL9E9I7y8Jv4TDGgyIKKA8rFsvXyzkLVD7).
+
+
+<p align="center">
+  <strong>Does this text show up bold and centered?</strong>
+</p>
