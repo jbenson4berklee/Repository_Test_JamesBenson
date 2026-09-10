@@ -4,8 +4,8 @@ Hey! My name is James Benson and in this repository you will find a unity 2d pro
 
 All of this is listed as required by the notion site for homework, so if confused please go back to website.
 
-<h5>First Photo</h5>
+<h2>First Photo</h2>
 ![FirstFlag](/Images/Flag_True.png)
 
-<h5>Second Photo</h5>
+<h2>Second Photo</h2>
 ![SecondFlag](/Images/Flag_Flase.png)
